@@ -17,7 +17,12 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to my website! 
 
-I am an Economics PhD candidate at the University of Nottingham. I work on organizational economics, discrimination, and behavioral economics, using tools from theory and causal inference. 
+I am an Economics PhD candidate at the University of Nottingham. 
+
+I work on behavioral economics topics, specializing in discrimination and non-standard belief formation and information processing. I employ tools from theory, experimental design, causal inference, and machine learning. 
+
+<!-- My research interests center around the economic consequences of non-standard belief formation and information processing, in labor markets and organizations, using a combination of theoretical modelling and causal inference. -->
+
 
 I am available for interviews in the 2025/26 Job Market. You can reach me at marcelo.woo1 [at] nottingham [dot] uk [dot] ac. 
 
