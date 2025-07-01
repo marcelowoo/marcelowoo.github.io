@@ -13,11 +13,11 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 I have over four years of experience teaching both undergraduate and graduate economics courses at University of Nottingham and Universidad de San Andrés.
 
-### Courses:
+**Courses**:
 - XXXXXXX
 - XXXXXXX
 
-### Selected teaching feedback:
+**Selected teaching feedback**:
 2021-2022:
 - "He genuinely put a lot of effort into ensuring that the tutorials were well structured and summarised the lectures" (ECON1050 Introduction to Economics)
 - "Extremely great tutor who was always eager for students to ask questions about anything they didn't understand!" (ECON1050 Introduction to Economics)
