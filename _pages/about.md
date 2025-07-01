@@ -19,7 +19,7 @@ Welcome to my website!
 
 I am an Economics PhD candidate at the University of Nottingham. 
 
-I work on behavioral economics topics, specializing in discrimination and non-standard belief formation and information processing. I employ tools from theory, experimental design, causal inference, and machine learning. 
+I work on behavioral economics topics, specializing in discrimination and non-standard belief formation and information processing in labor markets, businesses, and organizations. In my research, I employ microeconomic modeling, as well as empirical tools such as experiments, causal inference, and machine learning. 
 
 <!-- My research interests center around the economic consequences of non-standard belief formation and information processing, in labor markets and organizations, using a combination of theoretical modelling and causal inference. -->
 
