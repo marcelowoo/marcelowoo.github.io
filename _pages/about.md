@@ -19,7 +19,7 @@ Welcome to my website!
 
 I am an Economics PhD candidate at the University of Nottingham. Prior to the PhD, I worked 7+ years in the tech sector.
 
-My research centers around behavioral economics topics. I study the economic consequences of decision-making based on non-standard belief formation and information processing, especially in the domains of labor markets, businesses, and organizations. 
+My research centers around behavioral economics topics. I study the economic consequences of decision-making based on non-standard information processing and updating of beliefs, especially in the domains of labor markets, businesses, and organizations. 
 
 In my research, I employ microeconomic modeling, as well as empirical methods such as experiments, causal inference, and machine learning. 
 
