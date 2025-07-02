@@ -13,9 +13,19 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 I have over four years of experience teaching both undergraduate and graduate economics courses at University of Nottingham and Universidad de San Andrés.
 
-**Courses**:
-- XXXXXXX
-- XXXXXXX
+**Courses at University of Nottingham**:
+- UG Teaching Assistant, Economics Dissertations (2024-2025)
+- UG Teaching Assistant, Behavioural and Experimental Economics (2024-2025)
+- UG Teaching Assistant, Applied Econometrics I (2024-2025)
+- UG Teaching Assistant, Applied Econometrics II (2023-2024)
+- UG Teaching Assistant, The Politics of Economics (2023-2024)
+- UG Teaching Assistant, Behavioural and Experimental Economics (2023-2024)
+- UG Teaching Assistant, Introduction to Economics (2022-2023)
+- UG Teaching Assistant, Behavioural and Experimental Economics (2022-2023)
+- UG Teaching Assistant, Introduction to Economics (2021-2022)
+
+**Courses at Universidad de San Andrés**:
+- Economía del comportamiento [Behavioral Economics] (graduate), (2022-2025)
 
 **Selected feedback**:
 
