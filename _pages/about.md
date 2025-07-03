@@ -26,6 +26,6 @@ In my research, I employ microeconomic modeling, as well as empirical methods su
 <!-- My research interests center around the economic consequences of non-standard belief formation and information processing, in labor markets and organizations, using a combination of theoretical modelling and causal inference. -->
 
 
-I am available for interviews in the 2025/26 Job Market. You can reach me at marcelo.woo1 [at] nottingham [dot] uk [dot] ac. 
+I am available for interviews in the 2025/26 Job Market. You can reach me at marcelo.woo [at] nottingham [dot] uk [dot] ac.
 
 <!-- Check out my job market candidate website at [this link](https://sites.harvard.edu/constanza-abuin/). -->
