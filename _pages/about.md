@@ -21,7 +21,7 @@ I am an Economics PhD candidate at the University of Nottingham. Prior to the Ph
 
 My research centers around behavioral economics topics. I study the economic consequences of deviations from Bayesian updating of beliefs and information processing, especially in the domains of labor markets, businesses, and organizations. 
 
-In my research, I employ microeconomic modeling, as well as empirical methods such as experiments, causal inference, and machine learning. 
+In my research, I employ microeconomic theory, as well as empirical methods such as experiments, causal inference, and machine learning. 
 
 <!-- My research interests center around the economic consequences of non-standard belief formation and information processing, in labor markets and organizations, using a combination of theoretical modelling and causal inference. -->
 
