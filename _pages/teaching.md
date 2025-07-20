@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: 
-title: teaching
+title: Teaching
 description: x
 nav: true
 nav_order: 3
