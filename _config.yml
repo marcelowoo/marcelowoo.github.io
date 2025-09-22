@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Marcelo
 middle_name: 
 last_name: Woo
-email: marcelo.woo1@nottingham.ac.uk
+email: marcelo.woo@nottingham.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Marcelo Woo's personal website
 footer_text: >
@@ -22,6 +22,9 @@ url: https://marcelowoo.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+
+# TODO: edit Google Analytics below (with my ORCID??)
+
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -233,8 +236,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Woo]
+  first_name: [Marcelo]
 
   style: apa
   locale: en
