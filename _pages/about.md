@@ -19,7 +19,7 @@ Welcome to my website!
 
 I am an Economics PhD candidate at the University of Nottingham, with 7+ years experience in the tech industry.
 
-My research interests include behavioral economics, inequality, and data science.
+My research interests include behavioral economics, microeconomics, and applied economics.
 
 <!-- So far, I studied the economic consequences of biased (non-standard) formation of beliefs and processing of information, especially in the domains of labor markets, businesses, and organizations. -->
 <!-- My research studies the economic implications of behavioral biases -->
