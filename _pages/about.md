@@ -21,11 +21,12 @@ Welcome to my website!
 
 I am a PhD in Economics candidate at the [University of Nottingham](https://www.nottingham.ac.uk/economics/), and affiliated to the [Centre for Decision Research and Experimental Economics (CeDEx)](https://www.nottingham.ac.uk/cedex/).
 
+<!-- My research interests include behavioral economics, microeconomics, and applied economics. -->
 I am an applied microeconomist, with interest in theory, behavioral economics, and empirical methods, including experiments, causal inference, and machine learning. 
 
-Before the PhD, I worked 7+ years in large tech companies, most recently in Data Science positions.
+<!-- Before the PhD, I worked 7+ years in large tech companies, most recently in Data Science positions. -->
+Before my PhD, I spent over seven years in large tech companies, most recently in data science roles.
 
-<!-- My research interests include behavioral economics, microeconomics, and applied economics. -->
 
 <!-- So far, I studied the economic consequences of biased (non-standard) formation of beliefs and processing of information, especially in the domains of labor markets, businesses, and organizations. -->
 <!-- My research studies the economic implications of behavioral biases -->
