@@ -29,7 +29,7 @@ I have over four years of experience teaching both undergraduate and graduate ec
 
 **Selected feedback**:
 
-- "He has put th[e] most effort out of all my tutors. I sincerely hope that I get him in the future for any tutorials. Furthermore he is an exceptional communicator and is extremely approachable. If I had to recommend one tutor for anything it would be Marcelo" <span style="color:#A9A9A9; font-size:0.8em">(Experimental and Behavioural Economics)</span>.
+- "He has put th[e] most effort out of all my tutors. I sincerely hope that I get him in the future for any tutorials. Furthermore he is an exceptional communicator and is extremely approachable. **If I had to recommend one tutor for anything it would be Marcelo**." <span style="color:#A9A9A9; font-size:0.8em">(Experimental and Behavioural Economics)</span>.
 <!-- 2021-2022: -->
 - "Extremely great tutor who was always eager for students to ask questions about anything they didn't understand!" <span style="color:#A9A9A9; font-size:0.8em">(Introduction to Economics)</span>.
 - "He genuinely put a lot of effort into ensuring that the tutorials were well structured and summarised the lectures" <span style="color:#A9A9A9; font-size:0.8em">(Introduction to Economics)</span>.
@@ -42,6 +42,6 @@ I have over four years of experience teaching both undergraduate and graduate ec
 <!-- - "Marcelo explained things clearly" (ECON3001 Economics Dissertation) -->
 <!-- - "[V]ery helpful and approachable" (ECON3001 Economics Dissertation) -->
 - "He was amazing at explaining STATA, went very slow which is what I needed. Really loved Marcelo!" <span style="color:#A9A9A9; font-size:0.8em">(Economics Dissertation)</span>.
-- "My favourite tutor" <span style="color:#A9A9A9; font-size:0.8em">(Introduction to Microeconomics)</span>.
+- "**My favourite tutor**" <span style="color:#A9A9A9; font-size:0.8em">(Introduction to Microeconomics)</span>.
 
 <span style="color:gray"></span>.
