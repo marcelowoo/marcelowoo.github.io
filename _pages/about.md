@@ -21,7 +21,7 @@ I am an Economics PhD candidate at the [University of Nottingham](https://www.no
 
 I am an applied microeconomist, with interest in theory, behavioral economics, and empirical methods, including experiments, causal inference, and machine learning. 
 
-Before the PhD, I worked 7+ years in tech companies, using Data Science.
+Before the PhD, I worked 7+ years in tech companies, most recently in Data Science positions.
 
 <!-- My research interests include behavioral economics, microeconomics, and applied economics. -->
 
