@@ -19,7 +19,7 @@ Welcome to my website!
 
 **I am in the Job Market 2025-2026**. 
 
-I am an PhD in Economics candidate at the [University of Nottingham](https://www.nottingham.ac.uk/economics/), and affiliated to the [Centre for Decision Research and Experimental Economics (CeDEx)](https://www.nottingham.ac.uk/cedex/).
+I am a PhD in Economics candidate at the [University of Nottingham](https://www.nottingham.ac.uk/economics/), and affiliated to the [Centre for Decision Research and Experimental Economics (CeDEx)](https://www.nottingham.ac.uk/cedex/).
 
 I am an applied microeconomist, with interest in theory, behavioral economics, and empirical methods, including experiments, causal inference, and machine learning. 
 
@@ -36,9 +36,8 @@ Before the PhD, I worked 7+ years in large tech companies, most recently in Data
 
 <!-- My research interests center around the economic consequences of non-standard belief formation and information processing, in labor markets and organizations, using a combination of theoretical modelling and causal inference. -->
 
-You can access here my [JMP](https://marcelowoo.github.io/assets/pdf/jmp.pdf) and my [CV](https://marcelowoo.github.io/assets/pdf/Marcelo_WOO-Resume.pdf).
+You can access here my [JMP](https://marcelowoo.github.io/assets/pdf/jmp.pdf) and my [CV](https://marcelowoo.github.io/assets/pdf/Marcelo_WOO-Resume.pdf). 
+<!-- My job market candidate website is at [this link](https://www.nottingham.ac.uk/economics/people/job-market-candidates.aspx). -->
 
 I am available for interviews in the 2025/26 Job Market. You can reach me at [woo.marcelo@gmail.com](mailto:woo.marcelo@gmail.com).
 <!-- woo.marcelo [at] gmail [dot] com -->
-
-Check out my job market candidate website at [this link](https://www.nottingham.ac.uk/economics/people/job-market-candidates.aspx).
