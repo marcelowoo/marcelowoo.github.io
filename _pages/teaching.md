@@ -13,7 +13,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 I have over four years of experience teaching both undergraduate and graduate economics courses at University of Nottingham (UK) and Universidad de San Andrés (Argentina).
 
-**Courses at University of Nottingham**:
+#### Courses at University of Nottingham:
 - UG Teaching Assistant, Economics Dissertations (2024-2025)
 - UG Teaching Assistant, Behavioural and Experimental Economics (2024-2025)
 - UG Teaching Assistant, Applied Econometrics I (2024-2025)
@@ -26,10 +26,10 @@ I have over four years of experience teaching both undergraduate and graduate ec
 
 I've earned **Teaching Excellence Awards** in [2021/22](https://marcelowoo.github.io/assets/pdf/teaching-award-21_22.pdf) and in [2023/24](https://marcelowoo.github.io/assets/pdf/teaching-award-23_24.pdf).
 
-**Courses at Universidad de San Andrés**:
+#### Courses at Universidad de San Andrés:
 - Economía del comportamiento (Behavioral Economics), (2022-2025)
 
-**Selected feedback**:
+#### Selected feedback:
 
 - "He has put th[e] most effort out of all my tutors. I sincerely hope that I get him in the future for any tutorials. Furthermore he is an exceptional communicator and is extremely approachable. **If I had to recommend one tutor for anything it would be Marcelo**." <span style="color:#A9A9A9; font-size:0.8em">(Experimental and Behavioural Economics)</span>.
 <!-- 2021-2022: -->
