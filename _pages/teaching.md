@@ -24,6 +24,8 @@ I have over four years of experience teaching both undergraduate and graduate ec
 - UG Teaching Assistant, Behavioural and Experimental Economics (2022-2023)
 - UG Teaching Assistant, Introduction to Economics (2021-2022)
 
+I've earned **Teaching Excellence Awards** in [2021/22](https://marcelowoo.github.io/assets/pdf/teaching-award-21_22.pdf) and in [2023/24](https://marcelowoo.github.io/assets/pdf/teaching-award-23_24.pdf).
+
 **Courses at Universidad de San Andrés**:
 - Economía del comportamiento (Behavioral Economics), (2022-2025)
 
