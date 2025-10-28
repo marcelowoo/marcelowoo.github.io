@@ -1,6 +1,6 @@
 ---
 layout: 
-permalink: /assets/pdf/pdfs/Marcelo_WOO-Resume.pdf
+permalink: /assets/pdf/Marcelo_WOO-Resume.pdf
 title: CV
 nav: true
 nav_order: 1
