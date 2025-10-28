@@ -15,9 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! **I am in the Job Market 2025-2026**.
+Welcome to my website! 
 
-I am an PhD in Economics candidate at the [University of Nottingham](https://www.nottingham.ac.uk/economics/). I am affiliated to the [Centre for Decision Research and Experimental Economics](https://www.nottingham.ac.uk/cedex/).
+**I am in the Job Market 2025-2026**. 
+
+I am an PhD in Economics candidate at the [University of Nottingham](https://www.nottingham.ac.uk/economics/), and affiliated to the [Centre for Decision Research and Experimental Economics](https://www.nottingham.ac.uk/cedex/).
 
 I am an applied microeconomist, with interest in theory, behavioral economics, and empirical methods, including experiments, causal inference, and machine learning. 
 
@@ -35,6 +37,8 @@ Before the PhD, I worked 7+ years in multinational tech companies, most recently
 <!-- My research interests center around the economic consequences of non-standard belief formation and information processing, in labor markets and organizations, using a combination of theoretical modelling and causal inference. -->
 
 
-I am available for interviews in the 2025/26 Job Market. You can reach me at marcelo.woo [at] nottingham [dot] uk [dot] ac.
+I am available for interviews in the 2025/26 Job Market. You can reach me at woo.marcelo [at] gmail [dot] com.
+
+You can access here my [JMP](https://marcelowoo.github.io/assets/pdf/jmp.pdf) and my [CV](https://marcelowoo.github.io/assets/pdf/Marcelo_WOO-Resume.pdf).
 
 <!-- Check out my job market candidate website at [this link](https://sites.harvard.edu/constanza-abuin/). -->
