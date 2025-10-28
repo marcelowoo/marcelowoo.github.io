@@ -17,9 +17,9 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to my website! **I am in the Job Market 2025-2026**.
 
-I am an Economics PhD candidate at the [University of Nottingham](https://www.nottingham.ac.uk/economics/).
+I am an Economics PhD candidate at the [University of Nottingham](https://www.nottingham.ac.uk/economics/). I am affiliated to the [Centre for Decision Research and Experimental Economics](https://www.nottingham.ac.uk/cedex/).
 
-I am an applied microeconomist with interest in microeconomic theory, behavioral economics, and applied economics. 
+I am an applied microeconomist, with interest in theory, behavioral economics, and empirical methods, including experiments, causal inference, and machine learning. 
 
 Before the PhD, I worked 7+ years in tech companies, using Data Science.
 
