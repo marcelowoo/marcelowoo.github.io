@@ -15,15 +15,12 @@ I have over four years of experience teaching both undergraduate and graduate ec
 
 ##### Courses at University of Nottingham:
 I have taught as a Postgraduate Teaching Assistant the following courses:
-- Economics Dissertations (2024-2025)
-- Behavioural and Experimental Economics (2024-2025)
-- Applied Econometrics I (2024-2025)
-- Applied Econometrics II (2023-2024)
-- The Politics of Economics (2023-2024)
-- Behavioural and Experimental Economics (2023-2024)
-- Introduction to Economics (2022-2023)
-- Behavioural and Experimental Economics (2022-2023)
-- Introduction to Economics (2021-2022)
+- Economics Dissertations (2024/25)
+- Behavioural and Experimental Economics (2022/23, 2023/24, 2024/25)
+- Applied Econometrics I (2024/25)
+- Applied Econometrics II (2023/24)
+- The Politics of Economics (2023/24, 2024/25)
+- Introduction to Economics (2021/22, 2022/23)
 
 I've earned **Teaching Excellence Awards** in [2021/22](https://marcelowoo.github.io/assets/pdf/Teaching-Award-21_22.pdf) and in [2023/24](https://marcelowoo.github.io/assets/pdf/Teaching-Award-23_24.pdf).
 
