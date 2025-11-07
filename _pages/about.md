@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi, and thank you for your interest.
 
-I am a PhD in Economics candidate at the [University of Nottingham](https://www.nottingham.ac.uk/economics/), and affiliated with the [Centre for Decision Research and Experimental Economics (CeDEx)](https://www.nottingham.ac.uk/cedex/). **I am in the Job Market 2025-2026**. 
+I am a PhD in Economics candidate at the [University of Nottingham](https://www.nottingham.ac.uk/economics/), and affiliated with the [Centre for Decision Research and Experimental Economics (CeDEx)](https://www.nottingham.ac.uk/cedex/). 
 
 I am an applied microeconomist, with interests in theory, behavioral economics, and empirical methods, including experiments, causal inference, and machine learning. 
 
