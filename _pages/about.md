@@ -27,7 +27,7 @@ Before my PhD, I worked 7+ years in large tech companies, most recently in data 
 You can access here my [CV]() and my [JMP](https://marcelowoo.github.io/assets/pdf/jmp.pdf). 
 <!-- My job market candidate website is at [this link](https://www.nottingham.ac.uk/economics/people/job-market-candidates.aspx). -->
 
-I am available for interviews during the 2025-2026 Job Market. You can reach me at [woo.marcelo@gmail.com](mailto:marcelo.woo.phd@gmail.com).
+I am available for interviews during the 2025-2026 Job Market. You can reach me at [marcelo.woo.phd@gmail.com](mailto:marcelo.woo.phd@gmail.com).
 <!-- woo.marcelo [at] gmail [dot] com -->
 
 
