@@ -44,4 +44,4 @@ I've earned **Teaching Excellence Awards** in [2021/22](https://marcelowoo.githu
 - "He was amazing at explaining STATA, went very slow which is what I needed. Really loved Marcelo!" <span style="color:#A9A9A9; font-size:0.8em">(Economics Dissertation)</span>.
 - "*My favourite tutor*" <span style="color:#A9A9A9; font-size:0.8em">(Introduction to Microeconomics)</span>.
 
-<span style="color:gray"></span>.
+<span style="color:gray"></span>
